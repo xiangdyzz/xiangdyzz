@@ -1,4 +1,4 @@
 Java  
 Golang   
-SQL&NOSQL 
-Front-end 
+SQL&NOSQL  
+Front-end
